@@ -1,3 +1,7 @@
 html.intro h1, h1, h2, p {
 	background-color: rgba(255,255,255,0.5);
 }
+
+.reveal .slide-background {
+	background-size: contain;
+}
