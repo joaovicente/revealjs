@@ -5,3 +5,7 @@ html.intro h1, h1, h2, p {
 .reveal .slide-background {
 	background-size: contain;
 }
+
+.red-text {
+  color:red;
+}
