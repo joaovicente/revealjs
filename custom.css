@@ -1,11 +1,11 @@
 html.intro h1, h1, h2 {
-	background-color: rgba(255,255,255,0.5);
+	background-color: rgba(255,255,255,0);
 	position: fixed;
 	top:0;
 }
 
 p {
-	background-color: rgba(255,255,255,0.5);
+	background-color: rgba(255,255,255,0);
 	position: fixed;
 	left: 200px;
 	top: 0px;
