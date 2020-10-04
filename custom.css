@@ -2,6 +2,7 @@ html.intro h1, h1, h2 {
 	background-color: rgba(255,255,255,0);
 	position: fixed;
 	top:0;
+	text-shadow: 2px 2px 4px #000000 !important;
 }
 
 p {
@@ -9,6 +10,7 @@ p {
 	position: fixed;
 	left: 200px;
 	top: 0px;
+	text-shadow: 2px 2px 4px #000000;
 	/*color: rgba(255,255,255,0.5);*/
 }
 
